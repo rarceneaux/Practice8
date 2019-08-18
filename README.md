@@ -4,6 +4,6 @@
 
 [www.nfl.com]  
 
-![test pic](images/test.png)
+![test pic](/images/test.png)
 
 ## Hope this works
